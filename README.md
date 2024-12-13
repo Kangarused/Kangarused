@@ -1,4 +1,4 @@
-## Robert Jackson
+## Developer 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&lines=React+%E2%9D%A4%EF%B8%8F;Dotnet+%F0%9F%99%8F;Typescript+%F0%9F%91%8D;Angular+%F0%9F%91%8C)](https://git.io/typing-svg)
 
 <h3 align="left">About</h3>
